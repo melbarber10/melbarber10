@@ -1,6 +1,6 @@
 <!-- START OF PROFILE README -->
 
-<h1 align="center">Hello Friend, I'm <span style="color:blue; font-family: 'Courier New', Courier, monospace;">Mohammed Elbarber</span> </h1>
+<h1 align="center">Hello Friend, I'm <span style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">Mohammed Elbarber</span> </h1>
 
 <p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
