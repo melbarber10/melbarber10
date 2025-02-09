@@ -1,6 +1,7 @@
 <!-- START OF PROFILE README -->
-<h1 align="center">Hello Friend, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=007BFF&size=26&duration=1&pause=1&width=435&height=45&lines=Mohammed+Elbarber" /> 👋</h1>
-<p align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=000000&size=26&duration=1&pause=1&width=800&height=45&lines=Hello+Friend%2C+I'm+Mohammed+Elbarber+👋" />
+</h1><p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
 </p>
 
