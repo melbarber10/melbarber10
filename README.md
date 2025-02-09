@@ -1,5 +1,9 @@
 <!-- START OF PROFILE README -->
 
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" alt="Animated Banner" width="100%" />
+</p>
 
 # Hi there, I'm Mohammed Mokhtar Elbarber 👋
 
@@ -14,7 +18,7 @@ I'm a passionate developer who loves building awesome things. Whether I'm explor
 - 🌱 I’m learning: **Advanced Machine Learning Techniques, Back end Development and Data Engineering**
 - 👯 I’m looking to collaborate on: **innovative websites and AI-driven applications**
 - 💬 Ask me about: **Python, Node.js, back end development, Flutter, MVC architectures, and integrating robust database solutions like MongoDB, MySQL, and PostgreSQL**
-- 📫 How to reach me: **https://muhammedelbarber@gmail.com**
+- 📫 How to reach me: **[muhammedelbarber@gmail.com](mailto:muhammedelbarber@gmail.com)**
 
 ---
 
@@ -48,35 +52,36 @@ I'm a passionate developer who loves building awesome things. Whether I'm explor
 ### Data Engineering
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-6600CC?style=for-the-badge)
 
-
 ---
 
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <!-- Replace "yourusername" with your GitHub username -->
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <a href="https://github.com/M_Elbarber">
+    <img src="https://github-readme-stats.vercel.app/api?username=M_Elbarber&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/M_Elbarber">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M_Elbarber&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
 ---
 
-
-
-
-
 ## 📫 **Connect with Me**
 
-- **Email:** [muhammedelbarber@gmail.com](mailto:muhammedelbarber@gmail.com)
-- **LinkedIn:** [Mohamed Elbarber](https://www.linkedin.com/in/mohamed-elbarber/)
-- **Facebook:** [Mohamad Elbarber](https://www.facebook.com/mohamad.mokhtar.9)
-- **Twitter (X):** [@M_Elbarber](https://x.com/M_Elbarber)
-
-
-<!-- You can add more social links as needed -->
+<p align="center">
+  <a href="mailto:muhammedelbarber@gmail.com">
+    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/email.gif" alt="Email" width="50" height="50" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-elbarber/">
+    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/linkedin.gif" alt="LinkedIn" width="50" height="50" />
+  </a>
+  <a href="https://www.facebook.com/mohamad.mokhtar.9">
+    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/facebook.gif" alt="Facebook" width="50" height="50" />
+  </a>
+  <a href="https://x.com/M_Elbarber">
+    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/twitter.gif" alt="Twitter (X)" width="50" height="50" />
+  </a>
+</p>
 
 <!-- END OF PROFILE README -->
