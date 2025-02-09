@@ -1,6 +1,8 @@
 <!-- START OF PROFILE README -->
 
-<h1 align="center">Hello Friend, I'm <font color="blue">Mohammed Elbarber</font> </h1>
+<h1 align="center">Hello Friend, I'm
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=blue>Mohammed Elbarber/>
+     </h1>
 
 <p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
