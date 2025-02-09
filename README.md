@@ -10,7 +10,7 @@
 > *"I speak for all mediocrities in the world. I am their champion. I am their patron saint."*
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=orange&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer;who+loves+building+awesome+things.;Exploring+new+technologies;to+craft+innovative+solutions.;Pushing+my+limits;to+learn+and+grow+every+day." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=yellow&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer;who+loves+building+awesome+things.;Exploring+new+technologies;to+craft+innovative+solutions.;Pushing+my+limits;to+learn+and+grow+every+day." />
 </p>
 
 
