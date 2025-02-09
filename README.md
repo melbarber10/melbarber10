@@ -1,6 +1,5 @@
 <!-- START OF PROFILE README -->
-<h1 align="center">Hello Friend, I'm <span style="color: #blue; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,123,255,0.3);">Mohammed Elbarber</span> 👋</h1>
-
+<h1 align="center">Hello Friend, I'm <span style="color: #007BFF; font-weight: 600; text-shadow: 2px 2px 4px rgba(0,123,255,0.3);">Mohammed Elbarber</span> 👋</h1>
 <p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
 </p>
