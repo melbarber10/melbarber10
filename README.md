@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFA500&center=true&vCenter=true&multiline=true&width=800&lines=%22I+speak+for+all+mediocrities+in+the+world.%22;%22I+am+their+champion.%22;%22I+am+their+patron+saint.%22" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFA500&center=true&vCenter=true&multiline=true&width=800&lines=%22I+speak+for+all+mediocrities+in+the+world.;I+am+their+champion.;I+am+their+patron+saint." />
 </p>
 
 ---
