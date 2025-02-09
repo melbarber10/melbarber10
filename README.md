@@ -1,16 +1,19 @@
 <!-- START OF PROFILE README -->
 
 
-# Hello Friend, I'm Mohammed Mokhtar Elbarber 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF5733&center=true&vCenter=true&lines=Hello+Friend,+I'm+Mohammed+Mokhtar+Elbarber+👋" />
+</p>
 
-🚀 **Passionate Developer | Tech Enthusiast | Innovator**  
-
+<p align="center">
+  🚀 <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
+</p>
 
 > *"I speak for all mediocrities in the world. I am their champion. I am their patron saint."*
 
-I'm a passionate developer who loves building awesome things. Whether I'm exploring new technologies or crafting innovative solutions, I always strive to push my limits and learn something new.
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A86B&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer+who+loves+building+awesome+things.;Exploring+new+technologies+to+craft+innovative+solutions.;Pushing+my+limits+to+learn+and+grow+every+day." />
+</p>
 
 ## 🚀 **About Me**
 
