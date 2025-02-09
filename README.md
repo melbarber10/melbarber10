@@ -1,13 +1,20 @@
 <!-- START OF PROFILE README -->
 
 
-<h1 align="center">Hello Friend !, I'm Mohammed Elbarber 👋</h1>
+<h1 align="center">Hello Friend, I'm Mohammed Elbarber 👋</h1>
 
 <p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
 </p>
 
-👋</
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFA500&center=true&vCenter=true&multiline=true&width=800&lines=%22I+speak+for+all+mediocrities+in+the+world.%22;%22I+am+their+champion.%22;%22I+am+their+patron+saint.%22" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Inspiration-🔥-orange?style=for-the-badge">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A86B&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer;who+loves+building+awesome+things.;Exploring+new+technologies;to+craft+innovative+solutions.;Pushing+my+limits;to+learn+and+grow+every+day." />
 </p>
