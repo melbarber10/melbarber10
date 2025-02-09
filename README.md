@@ -67,17 +67,18 @@ I'm a passionate developer who loves building awesome things. Whether I'm explor
 
 <p align="center">
   <a href="mailto:muhammedelbarber@gmail.com">
-    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/email.gif" alt="Email" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-elbarber/">
-    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/linkedin.gif" alt="LinkedIn" width="50" height="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/mohamad.mokhtar.9">
-    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/facebook.gif" alt="Facebook" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://x.com/M_Elbarber">
-    <img src="https://raw.githubusercontent.com/M_Elbarber/animated-icons/master/twitter.gif" alt="Twitter (X)" width="50" height="50" />
+    <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
   </a>
 </p>
+
 
 <!-- END OF PROFILE README -->
