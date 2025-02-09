@@ -12,10 +12,7 @@
 </p>
 
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A86B&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer;who+loves+building+awesome+things.;Exploring+new+technologies;to+craft+innovative+solutions.;Pushing+my+limits;to+learn+and+grow+every+day." />
-</p>
+
 
 ---
 ## 🚀 **About Me**
