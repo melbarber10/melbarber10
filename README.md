@@ -1,7 +1,5 @@
 <!-- START OF PROFILE README -->
 
-<!-- Banner (Optional) -->
-![Banner](https://your-image-link.com/banner.png)
 
 # Hi there, I'm Mohammed Mokhtar Elbarber 👋
 
