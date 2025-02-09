@@ -1,4 +1,9 @@
 <!-- START OF PROFILE README -->
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" alt="Animated Banner" width="100%" />
+</p>
+
 
 
 # Hi there, I'm Mohammed Mokhtar Elbarber 👋
