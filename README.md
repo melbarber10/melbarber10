@@ -1,9 +1,10 @@
 <!-- START OF PROFILE README -->
-![Typing Effect](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+there,+I'm+Mohammed+Mokhtar+Elbarber+👋;Passionate+Developer+%7C+Tech+Enthusiast;Let's+Build+Awesome+Things!)
 
 
+# Hello Friend, I'm Mohammed Mokhtar Elbarber 👋
 
-# Hi there, I'm Mohammed Mokhtar Elbarber 👋
+🚀 **Passionate Developer | Tech Enthusiast | Innovator**  
+
 
 > *"I speak for all mediocrities in the world. I am their champion. I am their patron saint."*
 
