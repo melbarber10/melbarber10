@@ -1,7 +1,6 @@
 <!-- START OF PROFILE README -->
 
-
-<h1 align="center">Hello Friend, I'm <span style="background: linear-gradient(45deg, #2196F3, #007BFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; display: inline-block;">Mohammed Elbarber</span> </h1>
+<h1 align="center">Hello Friend, I'm <span style="color:blue; font-family: 'Courier New', Courier, monospace;">Mohammed Elbarber</span> </h1>
 
 <p align="center">
    <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
