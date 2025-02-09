@@ -1,9 +1,7 @@
 <!-- START OF PROFILE README -->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF5733&center=true&vCenter=true&lines=Hello+Friend,+I'm+Mohammed+Mokhtar+Elbarber+👋" />
-</p>
+<h1 align="center">Hello Friend, I'm Mohammed Mokhtar Elbarber 👋</h1>
 
 <p align="center">
   🚀 <strong>Passionate Developer | Tech Enthusiast | Innovator</strong>
@@ -12,9 +10,10 @@
 > *"I speak for all mediocrities in the world. I am their champion. I am their patron saint."*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A86B&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer+who+loves+building+awesome+things.;Exploring+new+technologies+to+craft+innovative+solutions.;Pushing+my+limits+to+learn+and+grow+every+day." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00A86B&center=true&vCenter=true&width=800&lines=I'm+a+passionate+developer;who+loves+building+awesome+things.;Exploring+new+technologies;to+craft+innovative+solutions.;Pushing+my+limits;to+learn+and+grow+every+day." />
 </p>
 
+---
 ## 🚀 **About Me**
 
 - 🌱 I’m learning: **Advanced Machine Learning Techniques, Back end Development and Data Engineering**
