@@ -1,4 +1,5 @@
 <!-- START OF PROFILE README -->
+![Typing Effect](https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&lines=Hi+there,+I'm+Mohammed+Mokhtar+Elbarber+👋;Passionate+Developer+%7C+Tech+Enthusiast;Let's+Build+Awesome+Things!)
 
 
 
