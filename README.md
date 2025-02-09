@@ -1,9 +1,5 @@
 <!-- START OF PROFILE README -->
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" alt="Animated Banner" width="100%" />
-</p>
 
 # Hi there, I'm Mohammed Mokhtar Elbarber 👋
 
@@ -57,10 +53,10 @@ I'm a passionate developer who loves building awesome things. Whether I'm explor
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <a href="https://github.com/M_Elbarber">
+  <a href="https://github.com/melbarber10">
     <img src="https://github-readme-stats.vercel.app/api?username=M_Elbarber&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
   </a>
-  <a href="https://github.com/M_Elbarber">
+  <a href="https://github.com/melbarber10">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M_Elbarber&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
