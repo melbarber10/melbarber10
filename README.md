@@ -54,10 +54,10 @@ I'm a passionate developer who loves building awesome things. Whether I'm explor
 
 <div align="center">
   <a href="https://github.com/melbarber10">
-    <img src="https://github-readme-stats.vercel.app/api?username=M_Elbarber&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=melbarber10&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
   </a>
   <a href="https://github.com/melbarber10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M_Elbarber&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbarber10&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
