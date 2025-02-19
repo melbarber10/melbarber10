@@ -51,7 +51,7 @@
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Python Ecosystem & Data Science Tools
+### Python Ecosystem , AI & Data Science Tools
 ![Tkinter](https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -71,11 +71,6 @@
 
 ### Patterns & Architectural Principles
 ![MVC](https://img.shields.io/badge/MVC-Pattern-brightgreen?style=for-the-badge)
-
-### Machine Learning & Data Engineering
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF4081?style=for-the-badge)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-6600CC?style=for-the-badge)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
