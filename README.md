@@ -107,7 +107,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://x.com/M_Elbarber">
-    <img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)" />
+    <img src="https://img.shields.io/badge/X%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X />
   </a>
 </p>
 
