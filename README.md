@@ -79,20 +79,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
----
-
-## 📊 **GitHub Stats**
-
-<div align="center">
-  <a href="https://github.com/melbarber10">
-    <img src="https://github-readme-stats.vercel.app/api?username=melbarber10&show_icons=true&theme=radical" alt="Mohammed's GitHub Stats" />
-  </a>
-  <a href="https://github.com/melbarber10">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melbarber10&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
 ---
 
 ## 📫 **Connect with Me**
